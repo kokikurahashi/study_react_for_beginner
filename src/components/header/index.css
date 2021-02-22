@@ -1,6 +1,7 @@
 .header{
   height: 300px;
   padding: 3px;
+  display: flex;
 }
 
 .menu{
