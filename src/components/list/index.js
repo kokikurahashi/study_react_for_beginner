@@ -7,8 +7,8 @@ export default function(props){
         return (
           <Item
             className={props.className}
-            onClick={props.onClick}
             content={content}
+            color={props.color}
           />
         )
       })}
